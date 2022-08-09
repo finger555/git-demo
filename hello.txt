@@ -13,4 +13,4 @@ hello huanghao! hello git!
 hello huanghao! hello git!
 hello huanghao! hello git!
 hello huanghao! hello git! master test
-hello huanghao! hello git!
+hello huanghao! hello git! hot-fix test
